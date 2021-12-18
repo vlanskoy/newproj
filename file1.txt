@@ -1,2 +1,2 @@
-some new file 1
-...
+some new fil 1
+new line 2
